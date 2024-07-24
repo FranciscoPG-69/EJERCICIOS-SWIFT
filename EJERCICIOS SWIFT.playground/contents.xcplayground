@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='IF ELSE'/>
+        <page name='SWITCH'/>
+        <page name='DICCIONARIOS'/>
+        <page name='DICCIONARIOS2'/>
+        <page name='Notas'/>
+        <page name='PRACTICAS SWITCH'/>
+        <page name='PRACTICAS'/>
+    </pages>
+</playground>
